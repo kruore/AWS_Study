@@ -2,7 +2,7 @@
 [[AURORA]]
 
 
-[[RDS]]
+[[AWS/RDS]]
 [[GLUE]]
 [[DynamoDB]]
 

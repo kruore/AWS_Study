@@ -26,13 +26,13 @@ Aurora는 **MySQL**과 **PostgreSQL** 호환성을 제공하며, 일반적인 �
 
 ### Aurora와 RDS 비교
 
-|**특징**|**Amazon Aurora**|**Amazon RDS**|
-|---|---|---|
-|**성능**|MySQL 대비 5배, PostgreSQL 대비 3배|오픈 소스 엔진 성능과 동일|
-|**스토리지 확장**|자동 확장 (최대 128TB)|고정 크기 설정 필요|
-|**읽기 복제본**|최대 15개|최대 5개|
-|**고가용성**|6개의 복제본, 다중 AZ|다중 AZ 설정 필요|
-|**지원 엔진**|MySQL, PostgreSQL|MySQL, PostgreSQL, MariaDB, SQL Server, Oracle|
+| **특징**      | **Amazon Aurora**             | **Amazon RDS**                                 |
+| ----------- | ----------------------------- | ---------------------------------------------- |
+| **성능**      | MySQL 대비 5배, PostgreSQL 대비 3배 | 오픈 소스 엔진 성능과 동일                                |
+| **스토리지 확장** | 자동 확장 (최대 128TB)              | 고정 크기 설정 필요                                    |
+| **읽기 복제본**  | 최대 15개                        | 최대 5개                                          |
+| **고가용성**    | 6개의 복제본, 다중 AZ                | 다중 AZ 설정 필요                                    |
+| **지원 엔진**   | MySQL, PostgreSQL             | MySQL, PostgreSQL, MariaDB, SQL Server, Oracle |
 
 ---
 
